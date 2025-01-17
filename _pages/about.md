@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Jiacheng Han(韩家成).
+My name is Jiacheng Han (韩家成).
 
 I'm a third year undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/). My research interest includes **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
 

@@ -15,9 +15,12 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jiuyun Cai, <u>Ke Niu<u>, Yijie Pan, Wenjuan Tai, __Jiacheng Han__. PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation[C]//International Conference on Intelligent Computing. Singapore: Springer Nature Singapore, 2024: 94-105. (CCF-C Conference) [Paper]()
+  
+* <u>__Jiacheng Han__<u>, Jiuyun Cai*, Mohan Zhu, Zijie Gao, Cong Li, and Yuanyuan Miao. GM-UNet: GAN-Based VM-UNet Achieves Higher Accuracy[C]//2024 11th International Conference on Behavioural and Social Computing (BESC). IEEE, 2024: 1-6. (EI Conference) [GitHub](https://github.com/Jiacheng-Han/GM-UNet) / [Paper](https://ieeexplore.ieee.org/abstract/document/10780733)
+  
+* <u>__韩家成__<u>,何琳,曾莉宁,等.基于协同过滤的产教一体化平台设计与实现[J].现代计算机,2024,30(03):107-111. [GitHub](https://github.com/Jiacheng-Han/e-xitang) / [Paper]()
+
 
 Award
 ======
@@ -55,6 +58,12 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Talks
 ======

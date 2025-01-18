@@ -35,6 +35,8 @@ Award
 
 * 2024 Mathematical Contest In Modeling Certificate of Achievement -- Meritorious Winner (top 10%)
 
+* 2023 Asia and Pacific Mathematical Contest in Modeling Certificate of Achievement -- Second Prize (top 30%)
+
 <!--
 Work experience
 ======

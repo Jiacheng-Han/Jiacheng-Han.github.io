@@ -27,7 +27,7 @@ Award
 
 * 2024 China Collegiate Programming Contest - National Invitational Contest (Shandong) -- Bronze Medal
 
-* 2024 Mathematical Contest In Modeling Certificate of Achievement -- Meritorious Winner(10%)
+* 2024 Mathematical Contest In Modeling Certificate of Achievement -- Meritorious Winner (top 10%)
 
 <!--
 Work experience

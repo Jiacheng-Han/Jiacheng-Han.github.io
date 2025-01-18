@@ -16,11 +16,11 @@ Education
 Publications
 ======
 <u>2024</u>
-* Jiuyun Cai, *Ke Niu*, Yijie Pan, Wenjuan Tai, **Jiacheng Han**. PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation[C]//International Conference on Intelligent Computing. Singapore: Springer Nature Singapore, 2024: 94-105. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_8)] (CCF-C Conference) 
+* Jiuyun Cai, ++Ke Niu++, Yijie Pan, Wenjuan Tai, **Jiacheng Han**. PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation[C]//International Conference on Intelligent Computing. Singapore: Springer Nature Singapore, 2024: 94-105. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_8)] (CCF-C Conference) 
   
-* ***Jiacheng Han***, *Jiuyun Cai*, Mohan Zhu, Zijie Gao, Cong Li, and Yuanyuan Miao. GM-UNet: GAN-Based VM-UNet Achieves Higher Accuracy[C]//2024 11th International Conference on Behavioural and Social Computing (BESC). IEEE, 2024: 1-6. [[GitHub](https://github.com/Jiacheng-Han/GM-UNet) / [Paper](https://ieeexplore.ieee.org/abstract/document/10780733)] (EI Conference) 
+* ++**Jiacheng Han**++, ++Jiuyun Cai++, Mohan Zhu, Zijie Gao, Cong Li, and Yuanyuan Miao. GM-UNet: GAN-Based VM-UNet Achieves Higher Accuracy[C]//2024 11th International Conference on Behavioural and Social Computing (BESC). IEEE, 2024: 1-6. [[GitHub](https://github.com/Jiacheng-Han/GM-UNet) / [Paper](https://ieeexplore.ieee.org/abstract/document/10780733)] (EI Conference) 
   
-* ***韩家成***,何琳,曾莉宁,等.基于协同过滤的产教一体化平台设计与实现[J].现代计算机,2024,30(03):107-111. [[GitHub](https://github.com/Jiacheng-Han/e-xitang) / [Paper](https://xueshu.baidu.com/usercenter/paper/show?paperid=1s1t0cf0305s0400r86a0ed0ur271220&site=xueshu_se&hitarticle=1)]
+* ++**韩家成**++,何琳,曾莉宁,等.基于协同过滤的产教一体化平台设计与实现[J].现代计算机,2024,30(03):107-111. [[GitHub](https://github.com/Jiacheng-Han/e-xitang) / [Paper](https://xueshu.baidu.com/usercenter/paper/show?paperid=1s1t0cf0305s0400r86a0ed0ur271220&site=xueshu_se&hitarticle=1)]
 
 
 Award

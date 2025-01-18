@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-
+{% include base_path %}
 
 Education
 ======

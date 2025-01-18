@@ -22,8 +22,11 @@ Publications
 Award
 ======
 The 2024 lCPC Asia Kunming Regional Contest -- Bronze Medal
+
 2024 China Collegiate Programming Contest, Harbin Site -- Bronze Medal
+
 2024 China Collegiate Programming Contest - National Invitational Contest (Shandong) -- Bronze Medal
+
 2024 Mathematical Contest In Modeling Certificate of Achievement -- Meritorious Winner(10%)
 
 <!--

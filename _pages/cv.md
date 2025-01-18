@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education
 ======
 * B.S. in BISTU, Beijing Information Science & Technology University, 2022

@@ -6,9 +6,6 @@
 
 main:
 
-  - title: "Study Blogs"
-    url: /year-archive/
-
   - title: "Publications"
     url: /publications/
 
@@ -26,3 +23,6 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
+
+  - title: "Study Blogs"
+    url: /year-archive/

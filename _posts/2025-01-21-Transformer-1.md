@@ -1,13 +1,13 @@
 ---
-title: 'Transformer'
+title: 'Transformer-1'
 date: 2025-01-21
-permalink: /posts/2025/01/Transformer/
+permalink: /posts/2025/01/Transformer-1/
 tags:
   - DL
   - Network
 ---
 
-        回顾和复习常见神经网络结构的底层原理——**Transformer**。之前的科研项目没有涉及到Transformer的创新，没有细致的了解，今天查漏补缺一下。21号没整理总结完。
+        回顾和复习常见神经网络结构的底层原理——**Transformer**。之前的科研项目没有涉及到Transformer的创新，没有细致的了解，今天查漏补缺一下。
 
 Day4：Transformer（上）
 ======

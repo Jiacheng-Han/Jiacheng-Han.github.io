@@ -10,7 +10,7 @@ My name is Jiacheng Han (韩家成).
 
 I'm a third year undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/). My research interest includes **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
 
-And now I'm preparing for master's recommendation. You can learn more about my to-do-list at url, including:
+And now I'm preparing for master's recommendation. You can learn more about my to-do-list at [url](https://jiacheng-han.github.io/posts/2999/12/PIN/), including:
 
 * Review of Basic Computer Knowledge
 

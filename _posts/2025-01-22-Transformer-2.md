@@ -49,7 +49,7 @@ Day5：Transformer（下）
 > > 
 > > $LayerNorm(X+FeedForward(X))$
 
-#### 2. 编码器结构
+#### 2. 解码器结构
 
         Decoder也是由6个decoder堆叠而成的（N=6）。包含两个 Multi-Head Attention 层。第一个 Multi-Head Attention 层采用了 Masked 操作。第二个 Multi-Head Attention 层的K, V矩阵使用 Encoder 的编码信息矩阵C进行计算，而Q使用上一个 Decoder block 的输出计算。
 

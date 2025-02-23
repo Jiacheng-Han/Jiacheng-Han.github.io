@@ -6,7 +6,10 @@ Thanks to [academicpages.github.io](https://github.com/academicpages/academicpag
 
 ## Update
 
-I found that the online images on the blog cannot be displayed properly on the website. You can find the markdown file corresponding to the blog in the `./_posts` folder and preview it on Github.
+* I found that the online images on the blog cannot be displayed properly on the website. You can find the markdown file corresponding to the blog in the `./_posts` folder and preview it on Github.
 
-我发现在博客的在线图片在网站中无法正常显示。你可以在`./_posts`这个文件夹下找到博客对应的markdown文件，利用Github在线预览。
+  * 我发现在博客的在线图片在网站中无法正常显示。你可以在`./_posts`这个文件夹下找到博客对应的markdown文件，利用Github在线预览。
 
+* I also uploaded the PDF version of my blog in the './PostsPDF' folder for everyone to better read the text and images.
+
+  * 我同时上传了博客的PDF版本在‘./PostsPDF’文件夹下，方便大家更好的阅读图文。

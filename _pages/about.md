@@ -17,7 +17,7 @@ I'm a third year undergraduate student from School of computer, [Beijing Informa
   
   - Ke Niu, **<u>Jiacheng Han</u>**, Jiuyun Cai. CFM-UNet: Coupling Local and Global Feature Extraction Networks for Medical Image Segmentation. (JCR Q1)
 
-  - **<u>Jiacheng Han</u>**, Ke Niu, Jiuyun Cai, KMC-UNet：A KAN-based Multi-Scale Connected U-shaped Architecture for Medical Image Segmentation. (JCR Q1)
+  - **<u>Jiacheng Han</u>**, Ke Niu, Jiuyun Cai, KMC-UNet: A KAN-based Multi-Scale Connected U-shaped Architecture for Medical Image Segmentation. (JCR Q1)
   
   - **<u>Jiacheng Han</u>**, Ke Niu, Jiuyun Cai, MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation. (CCF-B Conference)
 

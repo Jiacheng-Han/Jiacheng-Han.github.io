@@ -11,7 +11,7 @@ My name is Jiacheng Han (韩家成).
 I'm a third year undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/). My research interest includes **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
 
 # 🔥 News and Plans
-- I'm preparing for master's recommendation. You can learn more about my schedule at [my to-do-list](https://jiacheng-han.github.io/posts/2999/12/PIN-2/).
+- I'm preparing for master's recommendation. You can learn more about my schedule at [my to-do-list](https://jiacheng-han.github.io/posts/2025/01/BAOYAN/).
 
 - Three papers are under review.
 
@@ -35,7 +35,7 @@ I'm a third year undergraduate student from School of computer, [Beijing Informa
 - 2023 Asia and Pacific Mathematical Contest in Modeling Certificate of Achievement -- Second Prize (top 30%)
 
 # 😄 Academic Activities
-- 2024.8 Harbin, China [[Image]](../images/BESC2024.jpg)
+- 2024.8 - 11th International Conference on Behavioural and Social Computing (BESC) - Harbin, China [[Image]](../images/BESC2024.jpg)
 
 # 💻 Reviewer 
 - IEEE International Conference on Multimedia & Expo 2025

@@ -16,11 +16,10 @@ I'm a third year undergraduate student from School of computer, Beijing Informat
 
 - I'm preparing for master's recommendation. You can learn more about my schedule at [my to-do-list](https://jiacheng-han.github.io/posts/2025/01/BAOYAN/).
 
-- Two papers are under review:
-
-  - **<u>Jiacheng Han</u>**, Ke Niu, Jiuyun Cai, KMC-UNet: A KAN-based Multi-Scale Connected U-shaped Architecture for Medical Image Segmentation. (JCR Q1)
-  
-  - **<u>Jiacheng Han</u>**, Ke Niu, Jiuyun Cai, MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation. (CCF-B Conference)
+- **<u>Two papers are under review:</u>**
+  - *Jiacheng Han*, Ke Niu, Jiuyun Cai, KMC-UNet: A KAN-based Multi-Scale Connected U-shaped Architecture for Medical Image Segmentation. (JCR Q1)
+    
+  - *Jiacheng Han*, Ke Niu, Jiuyun Cai, MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation. (CCF-B Conference)
 
 # 📖 Educations
 - 2022.09 - present, B.S. candidate in Computer Science and Technology, Beijing Information Science & Technology University, Beijiing.

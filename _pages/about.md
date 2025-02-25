@@ -12,7 +12,7 @@ I'm a third year undergraduate student from School of computer, Beijing Informat
 
 # 🔥 News and Plans
 
-- *CFM-UNet: Coupling Local and Global Feature Extraction Networks for Medical Image Segmentation.* has been **accepted** for publication by *Scientific Reports* (JCR Q1) ![![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/Jiacheng-Han/CFM-UNet)
+- *CFM-UNet: Coupling Local and Global Feature Extraction Networks for Medical Image Segmentation.* has been **accepted** for publication by *Scientific Reports* (JCR Q1) ! [![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/Jiacheng-Han/CFM-UNet)
 
 - I'm preparing for master's recommendation. You can learn more about my schedule at [my to-do-list](https://jiacheng-han.github.io/posts/2025/01/BAOYAN/).
 

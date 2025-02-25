@@ -8,14 +8,15 @@ redirect_from:
 ---
 My name is Jiacheng Han (韩家成).
 
-I'm a third year undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/). My research interest includes **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
+I'm a third year undergraduate student from School of computer, Beijing Information Science & Technology University. My research interest includes **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
 
 # 🔥 News and Plans
+
+- *CFM-UNet: Coupling Local and Global Feature Extraction Networks for Medical Image Segmentation.* has been **accepted** for publication by *Scientific Reports* (JCR Q1) !
+
 - I'm preparing for master's recommendation. You can learn more about my schedule at [my to-do-list](https://jiacheng-han.github.io/posts/2025/01/BAOYAN/).
 
-- Three papers are under review:
-  
-  - Ke Niu, **<u>Jiacheng Han</u>**, Jiuyun Cai. CFM-UNet: Coupling Local and Global Feature Extraction Networks for Medical Image Segmentation. (JCR Q1)
+- Two papers are under review:
 
   - **<u>Jiacheng Han</u>**, Ke Niu, Jiuyun Cai, KMC-UNet: A KAN-based Multi-Scale Connected U-shaped Architecture for Medical Image Segmentation. (JCR Q1)
   

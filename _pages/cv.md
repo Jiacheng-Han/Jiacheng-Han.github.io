@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in BISTU, Beijing Information Science & Technology University, 2022
+* 2022.09 - present, B.S. major in Computer Science and Technology, minor in Big Data, Beijing Information Science & Technology University, Beijing.
 
 Publications
 ======

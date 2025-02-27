@@ -22,7 +22,7 @@ I'm a third year undergraduate student from School of computer, Beijing Informat
   - *Jiacheng Han*, Ke Niu, Jiuyun Cai, MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation. (CCF-B Conference)
 
 # 📖 Educations
-- 2022.09 - present, B.S. candidate in Computer Science and Technology, Beijing Information Science & Technology University, Beijiing.
+- 2022.09 - present, B.S. major in Computer Science and Technology, minor in Big Data, Beijing Information Science & Technology University, Beijing.
 
 # 📝 Publications
 - Cai, J., Niu, K., Pan, Y., Tai, W., **<u>Han, J.</u>** (2024). PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation. In: Huang, DS., Zhang, X., Pan, Y. (eds) Advanced Intelligent Computing Technology and Applications. ICIC 2024. Lecture Notes in Computer Science, vol 14863. Springer, Singapore. https://doi.org/10.1007/978-981-97-5581-3_8.

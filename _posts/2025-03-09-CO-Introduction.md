@@ -153,7 +153,7 @@ M.M包括存储体、各种逻辑部件及控制电路等。存储体由许多�
 
 #### （1）总容量
 
-$总容量＝存储单元个数∗存储字长bit=存储单元个数∗存储字长/8Byte$
+$$总容量＝存储单元个数∗存储字长bit=存储单元个数∗存储字长/8Byte$$
 
 <img src="https://i-blog.csdnimg.cn/direct/52420e7d9b7b45b698b4e626ae75ee60.png" title="" alt="在这里插入图片描述" data-align="center">
 
@@ -162,12 +162,12 @@ e.g.：MAR为32位，MDR为8位   =>   总容量= 2^(32)*8 bit = 4GB
 #### （2）CPU性能
 
 a. CPU主频：CPU内数字脉冲信号振荡的频率：
-$C P U 主频（时钟频率） = 1 / C P U 时钟周期$
+$$C P U 主频（时钟频率） = 1 / C P U 时钟周期$$
 
 ![](C:\Users\lenovo\AppData\Roaming\marktext\images\2025-03-09-21-46-58-image.png)
 
 b. CPI（Clock cycle Per Instruction)：执行一条指令所需的时钟周期数
-c. 执行一条指令的耗时=CPI*CPU时钟周期
+c. 执行一条指令的耗时 = CPI * CPU时钟周期
 d. IPs（Instructions Per Second）：每秒执行多少条指令
 
 #### （3）系统整体性能指标

@@ -1,5 +1,5 @@
 ---
-title: 'DS-Linear List'
+title: 'DS-Stack and Queue'
 date: 2025-03-09
 permalink: /posts/2025/03/DS-Stack and Queue/
 tags:

@@ -19,7 +19,7 @@ I'm a third year undergraduate student from School of computer, Beijing Informat
 - **<u>Two papers are under review:</u>**
   - *Jiacheng Han*, Ke Niu, Jiuyun Cai, KMC-UNet: A KAN-based Multi-Scale Connected U-shaped Architecture for Medical Image Segmentation. (JCR Q1)
     
-  - *Jiacheng Han*, Ke Niu, Jiuyun Cai, MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation. (CCF-B Conference)
+  - *Jiacheng Han*, Ke Niu, Jiuyun Cai, MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation. (CCF-C Conference)
 
 # 📖 Educations
 - 2022.09 - present, B.S. major in Computer Science and Technology, minor in Big Data, Beijing Information Science & Technology University, Beijing.
@@ -44,4 +44,6 @@ I'm a third year undergraduate student from School of computer, Beijing Informat
 - 2024.8 - 11th International Conference on Behavioural and Social Computing (BESC) - Harbin, China [[Image]](../images/BESC2024.jpg)
 
 # 💻 Reviewer 
-- IEEE International Conference on Multimedia & Expo 2025
+- Journal of Biomedical and Health Informatics (JCR Q1 / CCF-C)
+
+- IEEE International Conference on Multimedia & Expo 2025 (CCF-B)

@@ -12,15 +12,15 @@ I'm a third year undergraduate student from School of computer, Beijing Informat
 
 # 🔥 News and Plans
 
+- *MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation.* has been **accepted** as oral presentation by ICIC'25 (CCF-C Conference) ! [![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/Jiacheng-Han/MedMaskDiff)
+
 - *CFM-UNet: Coupling Local and Global Feature Extraction Networks for Medical Image Segmentation.* has been **accepted** for publication by *Scientific Reports* (JCR Q1) ! [![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/Jiacheng-Han/CFM-UNet)
 
 - I'm preparing for master's recommendation. You can learn more about my schedule at [my to-do-list](https://jiacheng-han.github.io/posts/2025/01/BAOYAN/).
 
-- **<u>Two papers are under review:</u>**
+- **<u>One paper is under review:</u>**
   - *Jiacheng Han*, Ke Niu, Jiuyun Cai, KMC-UNet: A KAN-based Multi-Scale Connected U-shaped Architecture for Medical Image Segmentation. (JCR Q1)
     
-  - *Jiacheng Han*, Ke Niu, Jiuyun Cai, MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation. (CCF-C Conference)
-
 # 📖 Educations
 - 2022.09 - present, B.S. major in Computer Science and Technology, minor in Big Data, Beijing Information Science & Technology University, Beijing.
 

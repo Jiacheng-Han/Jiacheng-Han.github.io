@@ -44,6 +44,6 @@ I'm a third year undergraduate student from School of computer, Beijing Informat
 - 2024.8 - 11th International Conference on Behavioural and Social Computing (BESC) - Harbin, China [[Image]](../images/BESC2024.jpg)
 
 # 💻 Reviewer 
-- Journal of Biomedical and Health Informatics (JCR Q1 / CCF-C)
+- IEEE Journal of Biomedical and Health Informatics (JCR Q1 / CCF-C)
 
 - IEEE International Conference on Multimedia & Expo 2025 (CCF-B)

@@ -18,7 +18,9 @@ Education
 Publications
 ======
 *2025*
-* *Ke Niu*, **Jiacheng Han**, Jiuyun Cai. CFM-UNet: Coupling Local and Global Feature Extraction Networks for Medical Image Segmentation. Scientific Reports. [[GitHub](https://github.com/Jiacheng-Han/CFM-UNet)] (JCR Q1)
+* **Jiacheng Han**, *Ke Niu*, Jiuyun Cai. MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation. International Conference on Intelligent Computing. [[GitHub](https://github.com/Jiacheng-Han/MedMaskDiff)] (CCF-C Conference)
+
+* *Ke Niu*, **Jiacheng Han**, Jiuyun Cai. CFM-UNet: coupling local and global feature extraction networks for medical image segmentation. Sci Rep 15, 22236 (2025). https://doi.org/10.1038/s41598-025-92010-y. [[GitHub](https://github.com/Jiacheng-Han/CFM-UNet)] / [Paper](https://www.nature.com/articles/s41598-025-92010-y)] (JCR Q1)
 
 *2024*
 * Jiuyun Cai, *Ke Niu*, Yijie Pan, Wenjuan Tai, **Jiacheng Han**. PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation[C]//International Conference on Intelligent Computing. Singapore: Springer Nature Singapore, 2024: 94-105. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_8)] (CCF-C Conference) 

@@ -3,7 +3,7 @@ title: "CFM-UNet: coupling local and global feature extraction networks for medi
 collection: publications
 category: manuscripts
 permalink: /publication/2025-CFM-UNet
-date: 2024-07-01
+date: 2025-07-01
 venue: 'Scientific Reports'
 excerpt: 'CFM-UNet proposed integrates CNN-based Bottle2neck blocks for local feature extraction and Mamba-based visual state space blocks for global feature extraction. These parallel frameworks perform feature fusion through our designed SEF block, achieving complementary advantages'
 paperurl: 'https://www.nature.com/articles/s41598-025-92010-y'

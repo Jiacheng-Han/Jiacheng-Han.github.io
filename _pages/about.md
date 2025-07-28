@@ -40,7 +40,7 @@ I'm a third year undergraduate student from School of computer, Beijing Informat
 - 2023 Asia and Pacific Mathematical Contest in Modeling Certificate of Achievement -- Second Prize (top 30%)
 
 # 😄 Academic Activities
-- 2025.7 - 2025 International Conference on Intelligent Computing (ICIC) - Ningbo, China.
+- 2025.7 - 2025 International Conference on Intelligent Computing (ICIC) - Ningbo, China. [[Image]](../images/ICIC2025.png)
 
 - 2024.8 - 11th International Conference on Behavioural and Social Computing (BESC) - Harbin, China. [[Image]](../images/BESC2024.jpg)
 

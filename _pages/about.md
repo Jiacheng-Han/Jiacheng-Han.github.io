@@ -8,13 +8,10 @@ redirect_from:
 ---
 My name is Jiacheng Han (韩家成).
 
-I'm a third year undergraduate student from School of computer, Beijing Information Science & Technology University. My research interest includes **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
+I'm a forth year undergraduate student from School of computer, Beijing Information Science & Technology University. My research interest includes **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
 
 # 🔥 News and Plans
-- I am preparing to apply for admission to graduate school without exams. You can learn more about my schedule at [my to-do-list](https://jiacheng-han.github.io/posts/2025/01/BAOYAN/).
-
-- **<u>One paper is under review:</u>**
-  - *Jiacheng Han*, Ke Niu, Jiuyun Cai, KMC-UNet: A KAN-based Multi-Scale Connected U-shaped Architecture for Medical Image Segmentation. (JCR Q1) [![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/Jiacheng-Han/KMC-UNet)
+- I am preparing to apply for admission to graduate school without exams.
     
 # 📖 Educations
 - 2022.09 - present, B.S. major in Computer Science and Technology, minor in Big Data, Beijing Information Science & Technology University, Beijing.

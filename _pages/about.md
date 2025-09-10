@@ -10,8 +10,10 @@ My name is Jiacheng Han (韩家成).
 
 I'm a forth year undergraduate student from School of computer, Beijing Information Science & Technology University. My research interest includes **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
 
+<!--
 # 🔥 News and Plans
 - I am preparing to apply for admission to graduate school without exams.
+-->
     
 # 📖 Educations
 - 2022.09 - present, B.S. major in Computer Science and Technology, minor in Big Data, Beijing Information Science & Technology University, Beijing.

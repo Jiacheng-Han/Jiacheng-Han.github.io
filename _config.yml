@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiacheng Han / Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiacheng Han"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "Jiacheng-Han/Jiacheng-Han.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic.png"
+  avatar           : "174915887.jpg"
   name             : "Jiacheng Han"
   pronouns         : # example: "she/her"  
   bio              : "韩家成"

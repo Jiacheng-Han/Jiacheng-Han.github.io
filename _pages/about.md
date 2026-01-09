@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+My name is **Jiacheng Han (韩家成)**. My recent research interests include **multimodal large language model**, **Semantic Image Synthesis** and **Medical Image Processing**.
+
 ## 📢 News and Plans
 
 * **[Sep. 2025]** I have been recommended for postgraduate studies at **Southeast University**. 

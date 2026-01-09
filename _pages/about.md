@@ -1,12 +1,8 @@
 ---
-layout: single
+layout: archive
 permalink: /
 title: "About Me"
 author_profile: true
-toc: true
-toc_label: "导航"
-toc_icon: "align-left"
-toc_sticky: true
 redirect_from: 
   - /about/
   - /about.html

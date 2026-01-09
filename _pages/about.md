@@ -3,33 +3,16 @@ layout: archive
 permalink: /
 title: "About Me"
 author_profile: true
-classes: wide
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<style>
-  /* 【新增】这里是专门用来减小段落间距的 CSS */
-  p {
-    margin-bottom: 0.5em !important;  /* 原来通常是 1.3em，改小到 0.5em */
-  }
-  /* 让列表项之间的间距也紧凑一点 */
-  li {
-    margin-bottom: 0.2em !important;
-  }
-  /* 调整标题下方的间距 */
-  h2, h3 {
-    margin-top: 1.5em !important;
-    margin-bottom: 0.5em !important;
-  }
-</style>
-
 My name is **Jiacheng Han (韩家成)**.
 
 I'm a fourth-year undergraduate student from the School of Computer Science, **Beijing Information Science & Technology University**. 
 
-My research interests include **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by [Prof. Ke Niu](https://jiacheng-han.github.io/), Beijing Information Science and Technology University.
+My research interests include **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
 
 ## 📢 News and Plans
 

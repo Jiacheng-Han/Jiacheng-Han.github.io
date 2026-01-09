@@ -55,10 +55,7 @@ My research interests include **Medical Image Processing** and **Computer Vision
 ## 🗣️ Academic Activities
 
 * **2025.7**: 2025 International Conference on Intelligent Computing (ICIC) - *Ningbo, China*.  
-    <img src="../images/ICIC2025.png" alt="ICIC2025" style="width: 200px; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
-
 * **2024.8**: 11th International Conference on Behavioural and Social Computing (BESC) - *Harbin, China*.  
-    <img src="../images/BESC2024.jpg" alt="BESC2024" style="width: 200px; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
 
 ## 🔍 Reviewer Service
 

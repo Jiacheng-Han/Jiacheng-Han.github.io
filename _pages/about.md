@@ -3,7 +3,6 @@ layout: archive
 permalink: /
 title: "About Me"
 author_profile: true
-classes: wide
 redirect_from: 
   - /about/
   - /about.html
@@ -22,21 +21,21 @@ redirect_from:
 
 ### 2025 (Third-year undergraduate)
 
-* **MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation** [[GitHub](https://github.com/Jiacheng-Han/MedMaskDiff)]
+* **MedMaskDiff: Mamba-based Medical Semantic Image Synthesis for Segmentation** [[GitHub](https://github.com/Jiacheng-Han/MedMaskDiff)]  
     Authors: **Jiacheng Han**, *Ke Niu*, Jiuyun Cai.  
     *International Conference on Intelligent Computing (ICIC).* (CCF-C)  
     
-* **CFM-UNet: coupling local and global feature extraction networks for medical image segmentation** [[GitHub](https://github.com/Jiacheng-Han/CFM-UNet)]
+* **CFM-UNet: coupling local and global feature extraction networks for medical image segmentation** [[GitHub](https://github.com/Jiacheng-Han/CFM-UNet)]  
     Authors: *Ke Niu*, **Jiacheng Han**, Jiuyun Cai.  
     *Scientific Reports.* (JCR Q1)  
 
 ### 2024 (Second-year undergraduate)
 
-* **GM-UNet: GAN-Based VM-UNet Achieves Higher Accuracy** [[GitHub](https://github.com/Jiacheng-Han/GM-UNet)]
+* **GM-UNet: GAN-Based VM-UNet Achieves Higher Accuracy** [[GitHub](https://github.com/Jiacheng-Han/GM-UNet)]  
     Authors: ***Jiacheng Han***, *Jiuyun Cai*, Mohan Zhu, Zijie Gao, Cong Li, Yuanyuan Miao.  
     *2024 11th International Conference on Behavioural and Social Computing (BESC).* (EI Conference)
   
-* **PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation**
+* **PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation**  
     Authors: Jiuyun Cai, *Ke Niu*, Yijie Pan, Wenjuan Tai, **Jiacheng Han**.  
     *International Conference on Intelligent Computing (ICIC).* (CCF-C)
  

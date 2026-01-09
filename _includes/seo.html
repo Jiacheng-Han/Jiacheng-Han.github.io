@@ -6,10 +6,6 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% unless page.url == "/" %}
-  <meta name="robots" content="noindex, nofollow">
-{% endunless %}
-
 {% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}

@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Jiacheng Han (韩家成)**.
+My name is **Jiacheng Han (韩家成)**. I'm a fourth-year undergraduate student from the School of Computer Science, **Beijing Information Science & Technology University**. 
 
-I'm a fourth-year undergraduate student from the School of Computer Science, **Beijing Information Science & Technology University**. 
-
-My research interests include **Medical Image Processing** and **Computer Vision**. I am very fortunate to be advised by Prof. Ke Niu, Beijing Information Science and Technology University.
+My research interests include **Multimodal Large Language Models** and **Medical Image Processing**.
 
 ## 📢 News and Plans
 
-* **[Sep. 2025]** I have been recommended for postgraduate studies at **Southeast University**. 🎓
-* **[Present]** I am currently enjoying my gap year vacation! 🏖️
+* **[Sep. 2025]** I have been recommended for postgraduate studies at **Southeast University**. 
+* **[Present]** I am currently enjoying my gap year vacation! 
 
 ## 🎓 Education
 
